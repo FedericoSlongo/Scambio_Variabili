@@ -3,11 +3,7 @@
 
 int main()
 {
-    /*
-    Esercizio 4
-    Federico Slongo
-    Classe 3-ID
-    */
+
 
     int var1, var2, temp;
 
